@@ -33,9 +33,7 @@ int main(int argc, char* const argv[])
             system("cls");
             perror("Error! Wrong Number.");
             printf("Enter 1 to 6 Only.\n\n");
-            start();
-            printf("\n\n\n\tEnter Your Operation.!\n");
-            scanf("%u", &input_operation);
+            printf("PRESS F9.\n");
     }
 
     return 0;
