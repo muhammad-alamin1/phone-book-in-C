@@ -19,6 +19,7 @@ int main(int argc, char* const argv[])
             add_new_record();
             break;
         case 2:
+            display_all_data();
             break;
         case 3:
             break;

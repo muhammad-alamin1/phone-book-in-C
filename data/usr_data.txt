@@ -1,5 +1,4 @@
-Muhammad Al-Amin        Betmore, Mathbaria        Md. Mucha        Mst. Aklima        1315792303        Male        abc@gmail.com
+Muhammad Al-Amin        Betmore, Mathbaria        Md. Mucha        Mst. Aklima        1315792303        Male        alamin@gmail.com
 Muhammad Sumon        Jankhali, Betmore, Mathbaria        Md. Jalal Pohallan        Mst. Fatima Begum        1315792303        Male        bcd@gmail.com
-Md. Imran        Chittagong, Bangladesh        Md. Salam        Mst. Fatima        1866020300        Male        imran@gmail.com
 Md. Mucha        Betmore, Mathbaria        Md. Rofez Uddin        Md. Unknown        1724271611        Male        mucha@gmail.com
 Mst. Aklima Begum        Betmore        Md. Hakim Pohalan        Mst. Eiful Bibi        1773074589        Female        aklima@gmail.com

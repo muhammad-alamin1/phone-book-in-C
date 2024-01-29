@@ -10,7 +10,7 @@ typedef struct
     char last[25];
 } Name_type;
 
-// create struct
+// create person struct
 typedef struct
 {
     Name_type name;
